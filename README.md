@@ -9,7 +9,7 @@ A Flutter mobile application for automated Indonesian National ID (KTP) document
 
 ### System Architecture Diagram
 
-![ID-Scan System Architecture](public/diagram.png)
+![ID-Scan System Architecture](public/diagram-2.jpg)
 
 **Diagram Explanation:**
 
